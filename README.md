@@ -80,7 +80,6 @@ After comparison, **XGBRegressor** achieved the best performance based on the lo
 
 **Ali Mohamed Ali Abdulwahed**  
 Faculty of Computer and Information Technology  
-Egyptian University for E-Learning  
 Data Science Track
 
 ---
