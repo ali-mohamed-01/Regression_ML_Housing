@@ -71,12 +71,14 @@ The following regression models were applied and compared in this notebook:
 
 ## 📈 Results Summary
 
-Each model was evaluated on both training and validation sets to assess generalization and prevent overfitting. The best model can be selected based on the lowest RMSE and highest R² Score.
+Each model was evaluated on both training and validation sets to assess generalization and prevent overfitting.  
+After comparison, **XGBRegressor** achieved the best performance based on the lowest RMSE and highest R² Score, making it the most accurate model for this task.
 
 ---
 
 ## ✍️ Author
-Ali Mohamed Ali Abdulwahed  
+
+**Ali Mohamed Ali Abdulwahed**  
 Faculty of Computer and Information Technology  
 Egyptian University for E-Learning  
 Data Science Track
@@ -84,5 +86,6 @@ Data Science Track
 ---
 
 ## 📬 Contact
-- [LinkedIn Profile](https://www.linkedin.com)
+
+- LinkedIn Profile: https://www.linkedin.com/in/ali-abdulwahed-/
 - Email: ali.example@email.com
